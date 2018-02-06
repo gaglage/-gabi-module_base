@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "gaglage",
   "license": "MIT",
+  "scripts": {
+    "start": "yarn run webpack",
+    "webpack": "webpack -d --watch"
+  },
   "devDependencies": {
     "webpack": "^3.10.0"
   }
