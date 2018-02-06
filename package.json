@@ -1,0 +1,8 @@
+{
+  "name": "@gabi/module_base",
+  "version": "1.0.0",
+  "description": "module base to apply in different projects es6 webpack based",
+  "main": "index.js",
+  "author": "gaglage",
+  "license": "MIT"
+}
